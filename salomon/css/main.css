@@ -1,0 +1,42 @@
+body {
+	background-color: SeaGreen;
+}
+.bebas {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 60px;
+	color: white;
+}
+.bebas2 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 35px;
+	color: white;
+}
+.logo_1 {
+	margin-top: 100px;
+}
+.margd {
+	margin-right: 1em;
+}
+
+.opci {
+	margin-top: 50px;
+}
+.lobst {
+	font-family: 'Lobster', cursive;
+	font-size: 55px;
+	color: white;
+}
+.jalis {
+	align-content: center;
+	width: 15%;
+	height: 15%;
+}
+.jal-let {
+	font-size: 50px;
+}
+.unid {
+	margin-top: 50px;
+	margin-left: 20px;
+	width: 10%;
+	height: 15%;
+}
